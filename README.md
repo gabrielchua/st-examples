@@ -1,1 +1,3 @@
-# st-examples
+# Streamlit Examples 
+
+Collection of examples
